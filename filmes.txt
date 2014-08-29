@@ -1,8 +1,5 @@
 "Não há certezas, apenas oportunidades." (V de Vingança)
 "Diga ’olá’ para meu pequeno amigo!" (Scarface)
-<<<<<<< HEAD
 "Hasta la vista, baby." (Exterminador do Futuro 2)
 "I'm Groot" (Guardiões da Galaxia)
-=======
-"Hasta la vista, baby." (Exterminador do Futuro 2)
->>>>>>> c15ec1516c41268f5a6b700b172ed667d28878b0
+"Eu sou o Groot" (Guardiões da Galaxia - pt-BR)
